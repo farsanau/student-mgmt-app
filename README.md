@@ -1,2 +1,2 @@
 # student-mgmt-app
-This is a student managment system CRUD application.
+This is a student management system CRUD application.
