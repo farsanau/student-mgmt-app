@@ -1,0 +1,33 @@
+.list_heading{
+  color:#12486B;
+  text-align: center;
+}
+.student_list, th, td {
+    border: 1px solid #B4B4B3;
+  color: whitesmoke;
+    border-collapse: collapse;
+    background-color:#12486B;
+    margin: auto;
+    margin-top: 20px;
+    width: 80%;
+    padding: 10px;
+   
+  }
+  .add_student{
+    width:300px;
+    height: 50px;
+    border-radius: 5px;
+    border: solid #35A29F;
+    background-color: #35A29F;
+    color: white;
+    margin-top: 10px;
+   
+  }
+  .add_student:hover{
+    background-color:#088395;
+    border: solid #088395;
+  }
+  .add_button_div{
+    display: flex;
+    justify-content: center;
+  }
